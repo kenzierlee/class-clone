@@ -1,0 +1,48 @@
+.orange {
+    background: #F9A330;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    padding-left: 7rem;
+}
+
+.blue {
+    background: #87c4e4;
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.google-map {
+    background: url(boisemap.jpeg) center center no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.black {
+    background: black;
+    color: lightgrey;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 7rem;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2{
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.submit-email {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
